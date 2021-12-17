@@ -16,9 +16,9 @@ flutter run
 ## Screenshots
 
 <p width="100%">
-<img align="left" src="https://raw.githubusercontent.com/kuntal811/news24/master/screenshots/news24_news_list.jpg" width="300"/>
-<img align="center" src="https://raw.githubusercontent.com/kuntal811/news24/master/screenshots/news24_news.jpg" width="300"/>
-<img align="right" src="https://raw.githubusercontent.com/kuntal811/news24/master/screenshots/news24_category.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/kuntal811/news24/master/screenshots/news24_news_list.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/kuntal811/news24/master/screenshots/news24_news.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/kuntal811/news24/master/screenshots/news24_category.jpg" width="300"/>
   </p>
 
 ---
